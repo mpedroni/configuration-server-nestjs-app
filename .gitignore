@@ -32,3 +32,8 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# ENV configuration files
+config/default.yml
+config/development.yml
+config/production.yml

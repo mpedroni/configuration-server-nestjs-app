@@ -1,0 +1,5 @@
+server:
+  port: 'port'
+db:
+  type: 'database_type'
+  database: 'database_name'
